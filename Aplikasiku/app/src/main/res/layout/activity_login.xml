@@ -87,6 +87,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginRight="24dp"
         android:text="@string/forgot_password"
+        android:onClick="clickForgot"
         android:textColor="#313131"
         android:textSize="18sp"
         app:layout_constraintRight_toRightOf="parent"
