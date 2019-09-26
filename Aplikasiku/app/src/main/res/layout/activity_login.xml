@@ -102,6 +102,7 @@
         android:layout_marginBottom="200dp"
         android:background="@drawable/button_red"
         android:text="LOG IN"
+        android:onClick="postLogin"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
